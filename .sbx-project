@@ -1,0 +1,5 @@
+AGENT=claude
+ENV=FIXTURE_FLAG=on
+SECRETS=github,deploy_token
+MCP=github
+PROFILE=standard
